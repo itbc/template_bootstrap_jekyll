@@ -2,3 +2,4 @@
 
 ### This is a sample for Bootstrap on Jekyll with Jekyll template.
 
+### GitHub Actoins of Jekyll for CI/CD.
